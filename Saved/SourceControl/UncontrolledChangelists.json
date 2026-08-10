@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LERETOUR/UE_Placeholder.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/UE_Placeholder.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/UE_Placeholder.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Cinematic/UE_Placeholder.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/UE_Placeholder.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/UE_Placeholder.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Mesh/UE_Placeholder.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/UE_Placeholder.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Mesh/PhA_Seirai_01.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Mesh/SK_Seirai_01.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Mesh/S_Seirai_01.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/Textures/UE_Placeholder.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/NewFolder/UE_Placeholder.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/M_Hair/UE_Placeholder.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/Main.umap",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/MI_Body.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/M_Body.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/M_Clear.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/M_Eyes.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/M_Hair.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/Textures/T_Seirai_Body_D.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/Textures/T_Seirai_Body_N.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/Textures/T_Seirai_Body_ORM.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/LeRetour/Content/LE_RETOUR/Assets/Characters/Seirai/Materials/Textures/T_Seirai_Eyes_D.uasset"
+			]
+		}
+	]
+}
